@@ -1,3 +1,21 @@
-.text {
+text {
     text-decoration: purple;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    font-family: 'UnifrakturMaguntia';
+}
+a {
+    font-family: 'UnifrakturMaguntia';   
+}
+nav {
+    background-color: #ab8ac9;
+}
+.center {
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
 }
