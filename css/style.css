@@ -1,3 +1,4 @@
+/*Homepage*/
 text {
     text-decoration: purple;
     font-family: 'Times New Roman', Times, serif;
@@ -18,4 +19,24 @@ nav {
     margin-right: auto;
     width: 30%;
 
+    /*login*/
+}
+span {
+    font-family: 'UnifrakturMaguntia';
+}
+label {
+    font-family: 'UnifrakturMaguntia';   
+}
+a {
+    font-family: 'UnifrakturMaguntia';
+}
+h5 {
+    font-family: 'UnifrakturMaguntia';
+}
+/*Registration*/
+li {
+    font-family: 'UnifrakturMaguntia';
+}
+p {
+    font-family: 'UnifrakturMaguntia';
 }
